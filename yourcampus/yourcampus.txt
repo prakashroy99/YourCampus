@@ -1,0 +1,228 @@
+Business Plan
+Executive plan
+Placement App is a start-up enterprise to be established in Bangalore. The App will provide information related to the placement activities. The App will have two categories which provide the information to the student of particular college and students of different colleges related to placement.
+This app provide a platform for the students to take part in different placement activities. App provides easy 3 way communication between students, Training and placement officer and the job providers.
+Students may find this app convenient for them and want to try it. If they are satisfied with the app quality they will recommend this app to their friends. As more and more students use this service,  ‘yourcampus' image is enhanced and we will gain more and more market share.
+Sales forecast gradually increase over the first year and comprise total sales of Rs 1Cr. We project modest net profits the first year. Our second and third year net profits are expected to grow substantially.
+
+
+1.1 Objectives
+In providing the job opportunities from job providers to students. YourCampus aims to:
+Provide enough job opportunities for the students by the end of first year. 
+Increasing the percentage of student getting placed every year. 
+Producing net profit
+1.2 Mission
+We will provide job opportunities from different job providers to the students. And job providers can conduct their placement process effectively.
+1.3 Key to Success
+The business is entering the first year of operation; therefore, a comprehensive marketing strategy will be the key to success of the business.
+It is important to remember that the target customers have money and want to be provided high quality service; therefore, they will only use this service if they are entirely satisfied.
+Furthermore, the hours of operation must be convenient and service completion must be on time.
+ 
+Company Summary
+YourCampus is a start-up enterprise to be established as a limited liability company in Bangalore.  The company will empowers the job opportunities by enabling students to register themself on the app. While at home, at college, or on the go. App provides information related to upcoming companies, results, notification from the college. Headquartered in Bangalore and with a growing presence throughout India. YourCampus makes app an integral part of local daily life, helping students to take part in different placement activities.
+This company helps the college management for conducting the different placement activities effectively .It build a connection between job seekers and job providers.   
+Start-up financing will be through owner investment and investor, with a line of credit established for operations eventualities.
+
+2.1 Company Ownership
+The proposed legal form of business is a limited liability company, wholly owned by its founder Credance Infotech Pvt. Ltd. This is a small business and need not publicly disclose its finances. The registration procedures are quite simple and the business can start operations as soon as possible. The owner/founder will be the director and will initially handle the bookkeeping responsibilities.
+
+2.2 Start-up Summary
+Startup expenses, funded through a combination of owner's equity capital and a commercial loan, are summarized in the table below.
+Capital plan: The owner will invest Rs 50,000 in the business.
+Buying a website/Hosting, mobile App and office/facilities equipment (computer, printer, fax, telephone instrument, tables, chairs, Papers, marketing equipments etc.) approx. Rs 50,000
+For marketing in May: Rs 1,00,000 (see the Cash Flow Table later in the document)
+
+
+
+
+
+
+
+
+
+
+
+Services
+Yourcampus is going to provide the following services  in the Bangalore area:
+FOR STUDENTS
+Update the students about the upcoming coming job opportunities.
+Helps the students to enroll their name for different job opportunities . 
+FOR MANAGEMENT
+Helps the management to interact with students.
+TPO can easily filter the students on basis of elgibility.
+Help the TPO to organise the placement activity.
+
+
+FOR  JOB PROVIDERS                
+Operations plan
+There are two categories in the app .In first the students can register them in the  and can only see the details of upcoming companies. In second categories student can register themself for the company by using  unique code given by TPO. Student wil be charged with almost a negligible fee which ensure their registration for the particular company,its one type repudation. The registration fee will depend on the CTC of company.
+TPO of each college will provided a OTP at the time of installation. TPO has to post all the updates of upcoming companies in the colleges . TPO filter’s the students on the basis of the eligibility and send the response according to it. OTP will be forwaded to all the eligible students .
+Job providers have to register their company followed by the job creation process. Job providers can directly communicate with students and can have the counts of the students coming.
+Following steps are involved in registration process:
+Step1: Specify the details of company.
+Step2: Details of HR
+Step3: Uploading the images 
+Step4: OTP validation/email verification
+Step5: Back end verification for approval
+Steps involved in creating the jobs:
+Step1: Selecting the profile for the job.
+Step2: Specifying the job description.
+Step3: Select the field for the job(BE,BA/B.Com,B.SC/M.Sc etc)
+Step4: Decide the eligibility and CTC for the job.
+Step5: Select the location and date for the interview.
+Step6: Submit
+T&C’s for job providers:
+If they create jobs for a specific post , compny will ensure that they conduct the interview for the same. If in case interview get reschedule or cancelled, company takes the responsibility for communication and refunds.
+The whole operation process will be controlled and monitored by an accounts expert employee, and generally managed by the business owner.
+Market Analysis Summary
+It is necessary to establish the reasons for choosing the placement app before doing the market research and marketing plan.
+Payment for the service is by cash or check.
+No capital stagnancy, receive payment after every installation, easy to get instant profit.
+Capital requirement for installing the app  or maintaining the app is minimal; therefore the risk of this business is low.
+This service only requires a few staff.
+Supplies a needed service for customers’ frequent demand 
+Students and job providers use this service as there are few or no alternatives (time, cost & quality).
+The demand for using service is increasing due to changing life styles, incomes, and the decrease in placement opportunities.
+
+4.1 Market Segmentation
+YourCampus will be primarily targeting students and job providers in Bangalore area. We will start off by offering services to the Bangalore residents but will also aim at extending our service offering to the residents of nearby towns of Karnataka.
+/*We will be targeting both full-time and part-time employed customers, Housewives, youths who would value the convenience of our service. Demographic research shows that the total population of the Bangalore area is about 8.42 million, of which about 250,000 are in the labor force. Of the later, approx. 585,000 are employed full time, 200,000 are employed part time and the rest are unemployed, as summarized in the table below*/
+
+Market Analysis
+4.2 Target Market Segment Strategy
+4.2.1 Market Needs
+Research shows that one of the key factors in choosing a YourCampus is not price but the convenience of the service. As stated above, with the growth of discretionary income people tend to choose services based on how much time and effort the service will save them. YourCampus will primarily market its convenient  service to those studenst or job providers who are willing to appreciate such service, as it saves them time for other endeavors.
+
+4.3 Competition and Buying Patterns
+Strategy and Implementation Summary
+The following areas will be monitored to evaluate the business performance:
+Monthly and annual sales
+Monthly and annual profit
+Repeat business
+Customer satisfaction
+Optimism
+The app empowers the neighbourhood economy by enabling student to register for their favourite core company. While at home, at work, or on the go in Bangalore that will surely attract students attention. If they are satisfied with the service quality they will likely ask their friends to install the app. When the patronage happens continuously, they become loyal customers of the service.  As more and more students use this service, yourcampus image is enhanced and we will gain more and more market share.
+If we attain monthly and annual sales at least as forecasted, total costs and expenses, including any unanticipated charges, will not exceed our estimates and therefore the monthly and annual profit will be satisfactorily achieved.
+Difficulties and Risks
+yourcampus is a start-up and as such has less experience and begins with no market share at all. Assertive, effective initial marketing efforts will be necessary to gain a customer base. If existing competitors see us as a major threat and they resort to overtly aggressive and debilitating actions it will be very difficult for us to become an established player in the marketplace. Risks caused by competitors are possible, therefore the business has to monitor and evaluate its performance frequently, and collect customer evaluations and suggestions in order to continually improve.
+Worst Case Risks
+The worst case scenario would be that the business cannot support itself on an ongoing basis. The costs of doing business may be under-estimated or sales and profit may be less than expected, making the business difficult in finance. Moreover, in case of social economic recession, political changes, or inflation, the business may perform even worse than has been forecasted.
+
+The following is the SWOT analysis for Grocer2home:
+Strengths:
+We offer a relatively new, yourcampus business model which benefit both student as well as job providers. 
+We provide quick and convenient service in order to save student’s time.
+Weaknesses:
+Competition from already established competitors in Bangalore.
+Starting at no market share at all.
+Less experience than competitors.
+Opportunities:
+Every year average count of passing out students is increasing, therefore the demand for jobs also increases.
+Average student getting placed is decreasing.
+Participation within a steadily growing service. The yourcampus goes steadily up through 2016.
+There is a high likelihood of repeat business.
+An efficient business model within a growing industry.
+The ability to service the entire country.
+Provide differentiation through enhanced convenience and service attributes
+Threats:
+If the business is successful, there will be new competitors who supply the same kind of service.
+Financial crisis may occur for marketing needs.
+5.2 Marketing Strategy
+5.3 Sales Strategy
+5.3.1 Sales Forecast
+Management Summary
+The owner of the business will be director and accountant, working full time. An Accounting expert will be employed and will be in charge of the operation and the quality team will report the Accounting expert who reports to the investor.
+6.1 Personnel Plan
+Number of staff and salary in the period of April to December 2014:
+Description
+No of people
+
+Salary
+
+
+Owner 
+
+Full-time
+1
+
+
+Expert
+
+Full-time
+1
+
+
+ Account
+    
+             
+Full-time
+2
+
+
+Workers
+Full-time
+2
+
+
+
+Total
+
+
+-
+6
+
+
+
+
+VENDOR BENEFIT
+HOW DO YOU GET BENIFITED FROM YOURCAMPUS
+This unique opportunity to enable business growth has been custom designed specifically for the placement portal, like yours, which have been facing an increased competition from the larger “modern” placement portals, which are trying very hard at pulling away the students from the different institutions.
+
+Most independent placement portal find it difficult to match the sheer marketing muscle of the modern trade and the glitter and glamour of the modern trade stores is very alluring to the modern Indian consumer.
+
+However, in spite of all the muscle and glamour of the modern trade, the independent retailers have managed to sustain well on their own largely because of following qualities like:
+
+1. The enterprising and a “never say die” spirit of the hardworking independent retailer / owner and his family. 
+
+2. Years of investment into a healthy and a dependable relationship with the community.
+
+3. The close physical proximity of the independent retail store that bring about increased interdependencies that cannot be matched by the larger store chains
+
+HOW TO JOIN GROCER2HOME.COM
+Membership to yourcampus is free for the students; however, it is by invitation with restriction on the number of members in a specific area in the early stages.
+
+You can apply to be listed as a member of the yourcampus if:
+
+/*    1. You have the capability to undertake home delivery of FMCG brands and products in a specific area. (grocery or pharmacy store)
+
+    2. You have a good reputation in the area and have experience as a leading retailer in your area. Most of our retailers come highly recommended from their customers. 
+
+    3. You have a mobile phone connection and an email connection or/and access to internet. */
+
+The member gets a unique identity (selected by the member) and store write-up and photographs of the member are used which enable easy recognition by job providers or TPO. yourcampus would undertake extensive online and on-ground promotion to ensure that the students in the area get well aware of the job providers on yourcampus. The job provider can also undertake his own promotion.
+
+.
+HOW DOES GROCER2HOME WORKS
+Grocer2home is an online multi-brand, multi-retailer, FMCG retail platform, which enables the modern consumers to freely select brands or products which they prefer and also enables them to place an order for the shopping directly and seamlessly with their "preferred Grocer2home" in the area.
+
+The "preferred Grocer2home" then delivers the shopping to the consumer and collects the money directly from the consumer - just like he would do today when he does home delivery.
+
+For your store to be a member of Grocer2home, you need to undertake a free registration process, after which a unique online storefront is created for you, which includes your store pictures and all other details.
+
+Once you are registered on Grocer2home, consumers from your area (areas that you currently service by way of home delivery of goods) are prompted and encouraged to select you as their "preferred Grocer2home". You can create G2HOffers which help you add value to the convenience of online shopping. 
+
+The financial transaction on all purchases is directly between the retailers and the consumers at the time of delivery of goods purchased. Grocer2home is not involved in the financial transaction.
+
+When the consumer shops on Grocer2home he is advised on the price of the goods based on the prevailing MRP or the special offers created by the retailer. The retailer however has the discretion of extending further discounts or credit terms.
+
+
+
+
+Technical details
+This app has been developed to focus on all the areas which are of concern to a job seeker, and thus dividing the complete application into three main sections, namely, In campus placement, Off campus placement and Pool campus. 
+Starting with the the In campus part, all the management concerned to placements in an institution is taken care of by a Training and Placement Officer i.e TPO. Thus the TPO will have a major role to play in the In campus section of the app. This will work in a manner such that the TPO will be able to create two profiles one regarding all the info of the college and himself , the other profile will be of the companies that visit the college for placement purposes. The students who are a part of that particular campus will register to all such placement eventts as In campus, this registration shall for In campus shall be free and for registration the students will be asked for a verification code which in turn will be provided to them by the TPO of their college so that any ambguity on the name of the college shall be avoided.The students will be able to create their own profiles and enter all the required information that will be a part of their resume. Everytime the TPO creates a new profile for company that is about to visit the college for palcement a notification shall be sent to all the students whose data match the required criteria to appear in the palcement events for that particular company.
+As for the Pool campus section of the app, the TPO of the college in which the pool campus has to be conducted will be responsible for tasks like creating a profile for the company that is to arrive. The students who are a part of the campus in which the pool campus is to be conducted will recieve a notification as in the In campus part of the app, for the students who are not a part of that particular campus will recieve a post in the pool section of the application.
+When we enter the off campus section of the application various posts regarding the companies that have posted for recruitments will be visible. When a student recieves all these posts he can select a particular company and apply for that job. To apply for that job the student has to pay an amount  of 0-100 INR. The company can reschedule this interview upto a maximum of three times. In a condition where the company cancels the interview the company has to pay back double the amount that was taken from the students at the time of application for the job.
+
+
+
